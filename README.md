@@ -1,6 +1,4 @@
 
-<img src="repo_transparent_100.png" alt="logo" style="float: right;">
-
 # Git ja GitHub oheistusta
 ---
 
