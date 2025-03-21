@@ -66,3 +66,4 @@ Poista branch GitHubista tai muusta etärepostasi:
    ssh -T git@github.com
    ```
    Jos SSH ei toimi, varmista, että SSH-avain on lisätty GitHubiin.
+c
